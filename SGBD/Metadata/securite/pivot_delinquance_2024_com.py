@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Charger le fichier source
-fichier_source = r"C:\Users\thiba\OneDrive\Documents\Données\Sécurité\Délinquance - COM\2024\donnee-data.gouv-2024-geographie2024-produit-le2025-03-14_nettoye.csv"
+fichier_source = r"C:\Users\thiba\OneDrive\Documents\Data\Sécurité\Délinquance - COM\2024\donnee-data.gouv-2024-geographie2024-produit-le2025-03-14_nettoye.csv"
 
 df = pd.read_csv(fichier_source, sep=';', dtype=str)
 
@@ -64,7 +64,7 @@ df_pivot.columns.name = None
 df_pivot.rename(columns={"CODGEO_2024": "CODGEO"}, inplace=True)
 
 # 8. Export du fichier CSV final
-fichier_sortie = r"C:\Users\thiba\OneDrive\Documents\Données\Sécurité\Délinquance - COM\2024\donnee-delinquance_pivot.csv"
+fichier_sortie = r"C:\Users\thiba\OneDrive\Documents\Data\Sécurité\Délinquance - COM\2024\donnee-delinquance_pivot.csv"
 df_pivot.to_csv(fichier_sortie, sep=';', index=False)
 
 # 9. Affichage d'un aperçu

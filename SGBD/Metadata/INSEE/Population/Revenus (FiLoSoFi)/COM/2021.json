@@ -2,7 +2,7 @@
   "table_info": {
     "schema": "insee",
     "name": "FiLo_revenus_disp_COM_2021",
-    "description": "https://www.insee.fr/fr/statistiques/7756855 FiLo_revenus_disp_COM_2021 C:\\Users\\thiba\\OneDrive\\Documents\\Données\\Population\\FiLoSoFi\\2021\\COM et +",
+    "description": "https://www.insee.fr/fr/statistiques/7756855 FiLo_revenus_disp_COM_2021 C:\\Users\\thiba\\OneDrive\\Documents\\Data\\Population\\FiLoSoFi\\2021\\COM et +",
     "date_creation": "",
     "source": "",
     "frequence_maj": "",
@@ -120,7 +120,7 @@
     {
       "name": "PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%)",
+      "description": "Part des revenus d'activité (%)",
       "nullable": true
     },
     {
@@ -276,7 +276,7 @@
     {
       "name": "AGE1PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le référent fiscal a moins de 30 ans",
+      "description": "Part des revenus d'activité (%) - Ménages dont le référent fiscal a moins de 30 ans",
       "nullable": true
     },
     {
@@ -432,7 +432,7 @@
     {
       "name": "AGE2PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le référent fiscal a de 30 à 39 ans",
+      "description": "Part des revenus d'activité (%) - Ménages dont le référent fiscal a de 30 à 39 ans",
       "nullable": true
     },
     {
@@ -588,7 +588,7 @@
     {
       "name": "AGE3PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le référent fiscal a de 40 à 49 ans",
+      "description": "Part des revenus d'activité (%) - Ménages dont le référent fiscal a de 40 à 49 ans",
       "nullable": true
     },
     {
@@ -744,7 +744,7 @@
     {
       "name": "AGE4PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le référent fiscal a de 50 à 59 ans",
+      "description": "Part des revenus d'activité (%) - Ménages dont le référent fiscal a de 50 à 59 ans",
       "nullable": true
     },
     {
@@ -900,7 +900,7 @@
     {
       "name": "AGE5PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le référent fiscal a de 60 à 74 ans",
+      "description": "Part des revenus d'activité (%) - Ménages dont le référent fiscal a de 60 à 74 ans",
       "nullable": true
     },
     {
@@ -1056,7 +1056,7 @@
     {
       "name": "AGE6PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le référent fiscal a 75 ans ou plus",
+      "description": "Part des revenus d'activité (%) - Ménages dont le référent fiscal a 75 ans ou plus",
       "nullable": true
     },
     {
@@ -1212,7 +1212,7 @@
     {
       "name": "TME1PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages d'une personne",
+      "description": "Part des revenus d'activité (%) - Ménages d'une personne",
       "nullable": true
     },
     {
@@ -1368,7 +1368,7 @@
     {
       "name": "TME2PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages de deux personnes",
+      "description": "Part des revenus d'activité (%) - Ménages de deux personnes",
       "nullable": true
     },
     {
@@ -1524,7 +1524,7 @@
     {
       "name": "TME3PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages de trois personnes",
+      "description": "Part des revenus d'activité (%) - Ménages de trois personnes",
       "nullable": true
     },
     {
@@ -1680,7 +1680,7 @@
     {
       "name": "TME4PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages de quatre personnes",
+      "description": "Part des revenus d'activité (%) - Ménages de quatre personnes",
       "nullable": true
     },
     {
@@ -1836,7 +1836,7 @@
     {
       "name": "TME5PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages de cinq personnes ou plus",
+      "description": "Part des revenus d'activité (%) - Ménages de cinq personnes ou plus",
       "nullable": true
     },
     {
@@ -1992,7 +1992,7 @@
     {
       "name": "TOL1PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages propriétaires",
+      "description": "Part des revenus d'activité (%) - Ménages propriétaires",
       "nullable": true
     },
     {
@@ -2148,7 +2148,7 @@
     {
       "name": "TOL2PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages locataires",
+      "description": "Part des revenus d'activité (%) - Ménages locataires",
       "nullable": true
     },
     {
@@ -2304,7 +2304,7 @@
     {
       "name": "TLD2PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages locataires du parc social",
+      "description": "Part des revenus d'activité (%) - Ménages locataires du parc social",
       "nullable": true
     },
     {
@@ -2460,7 +2460,7 @@
     {
       "name": "TLD3PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages locataires du parc privé",
+      "description": "Part des revenus d'activité (%) - Ménages locataires du parc privé",
       "nullable": true
     },
     {
@@ -2616,7 +2616,7 @@
     {
       "name": "TYM1PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Hommes seuls",
+      "description": "Part des revenus d'activité (%) - Hommes seuls",
       "nullable": true
     },
     {
@@ -2772,7 +2772,7 @@
     {
       "name": "TYM2PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Femmes seules",
+      "description": "Part des revenus d'activité (%) - Femmes seules",
       "nullable": true
     },
     {
@@ -2928,7 +2928,7 @@
     {
       "name": "TYM3PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Couples sans enfant",
+      "description": "Part des revenus d'activité (%) - Couples sans enfant",
       "nullable": true
     },
     {
@@ -3084,7 +3084,7 @@
     {
       "name": "TYM4PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Couples avec enfant(s)",
+      "description": "Part des revenus d'activité (%) - Couples avec enfant(s)",
       "nullable": true
     },
     {
@@ -3240,7 +3240,7 @@
     {
       "name": "TYM5PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Familles monoparentales",
+      "description": "Part des revenus d'activité (%) - Familles monoparentales",
       "nullable": true
     },
     {
@@ -3396,7 +3396,7 @@
     {
       "name": "TYM6PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages complexes",
+      "description": "Part des revenus d'activité (%) - Ménages complexes",
       "nullable": true
     },
     {
@@ -3552,7 +3552,7 @@
     {
       "name": "OPR1PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages ayant pour source principale de revenus déclarés des salaires et traitements",
+      "description": "Part des revenus d'activité (%) - Ménages ayant pour source principale de revenus déclarés des salaires et traitements",
       "nullable": true
     },
     {
@@ -3708,7 +3708,7 @@
     {
       "name": "OPR2PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages ayant pour source principale de revenus déclarés des indemnités de chômage",
+      "description": "Part des revenus d'activité (%) - Ménages ayant pour source principale de revenus déclarés des indemnités de chômage",
       "nullable": true
     },
     {
@@ -3864,7 +3864,7 @@
     {
       "name": "OPR3PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages ayant pour source principale de revenus déclarés des revenus des activités non salariées",
+      "description": "Part des revenus d'activité (%) - Ménages ayant pour source principale de revenus déclarés des revenus des activités non salariées",
       "nullable": true
     },
     {
@@ -4020,7 +4020,7 @@
     {
       "name": "OPR4PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages ayant pour source principale de revenus déclarés des pensions, retraites et rentes",
+      "description": "Part des revenus d'activité (%) - Ménages ayant pour source principale de revenus déclarés des pensions, retraites et rentes",
       "nullable": true
     },
     {
@@ -4176,7 +4176,7 @@
     {
       "name": "OPR5PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages ayant pour source principale de revenus déclarés des revenus du patrimoine",
+      "description": "Part des revenus d'activité (%) - Ménages ayant pour source principale de revenus déclarés des revenus du patrimoine",
       "nullable": true
     },
     {
@@ -4332,7 +4332,7 @@
     {
       "name": "OPR6PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%) - Ménages dont le revenu déclaré est négatif ou nul",
+      "description": "Part des revenus d'activité (%) - Ménages dont le revenu déclaré est négatif ou nul",
       "nullable": true
     },
     {

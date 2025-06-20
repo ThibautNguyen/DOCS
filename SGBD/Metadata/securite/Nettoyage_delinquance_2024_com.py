@@ -1,10 +1,10 @@
 import pandas as pd
 
 # Chemin du fichier source
-input_file = "C:/Users/thiba/OneDrive/Documents/Données/Sécurité/Délinquance - COM/2024/donnee-data.gouv-2024-geographie2024-produit-le2025-03-14.csv"
+input_file = "C:/Users/thiba/OneDrive/Documents/Data/Sécurité/Délinquance - COM/2024/donnee-data.gouv-2024-geographie2024-produit-le2025-03-14.csv"
 
 # Chemin du fichier nettoyé
-output_file = "C:/Users/thiba/OneDrive/Documents/Données/Sécurité/Délinquance - COM/2024/donnee-data.gouv-2024-geographie2024-produit-le2025-03-14_nettoye.csv"
+output_file = "C:/Users/thiba/OneDrive/Documents/Data/Sécurité/Délinquance - COM/2024/donnee-data.gouv-2024-geographie2024-produit-le2025-03-14_nettoye.csv"
 
 # Chargement du fichier CSV avec gestion d'erreur
 try:

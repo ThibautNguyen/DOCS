@@ -2,7 +2,7 @@
   "table_info": {
     "schema": "insee",
     "name": "POP_IRIS_2015",
-    "description": "https://www.insee.fr/fr/statistiques/3627376 POP_IRIS_2015 Chemin disque dur : C:\\Users\\thiba\\OneDrive\\Documents\\Données\\Population\\Evol_IRIS\\2015",
+    "description": "https://www.insee.fr/fr/statistiques/3627376 POP_IRIS_2015 Chemin disque dur : C:\\Users\\thiba\\OneDrive\\Documents\\Data\\Population\\Evol_IRIS\\2015",
     "date_creation": "",
     "source": "",
     "frequence_maj": "",

@@ -2,7 +2,7 @@
   "table_info": {
     "schema": "insee",
     "name": "FiLoSoFi_IRIS_2021",
-    "description": "https://www.insee.fr/fr/statistiques/8229323 C:\\Users\\thiba\\OneDrive\\Documents\\Données\\Population\\FiLoSoFi\\2021\\IRIS",
+    "description": "https://www.insee.fr/fr/statistiques/8229323 C:\\Users\\thiba\\OneDrive\\Documents\\Data\\Population\\FiLoSoFi\\2021\\IRIS",
     "date_creation": "",
     "source": "",
     "frequence_maj": "",
@@ -126,7 +126,7 @@
     {
       "name": "DISP_PACT21",
       "type": "CHAR",
-      "description": "Part des revenus d’activité (%)",
+      "description": "Part des revenus d'activité (%)",
       "nullable": true
     },
     {

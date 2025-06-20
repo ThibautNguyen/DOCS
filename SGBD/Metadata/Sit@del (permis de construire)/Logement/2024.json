@@ -2,7 +2,7 @@
   "table_info": {
     "schema": "logement",
     "name": "Logements_2024",
-    "description": "https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=datafile&datafileRid=8b35affb-55fc-4c1f-915b-7750f974446a C:\\Users\\thiba\\OneDrive\\Documents\\Données\\Logement\\Sit@del\\2024-03",
+    "description": "https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=datafile&datafileRid=8b35affb-55fc-4c1f-915b-7750f974446a C:\\Users\\thiba\\OneDrive\\Documents\\Data\\Logement\\Sit@del\\2024-03",
     "date_creation": "",
     "source": "",
     "frequence_maj": "",
@@ -382,7 +382,7 @@
       "nullable": true
     },
     {
-      "name": "7 = pas d’annexe\"",
+      "name": "7 = pas d'annexe\"",
       "type": "VARCHAR",
       "description": "",
       "nullable": true
@@ -485,31 +485,31 @@
     },
     {
       "name": "NB_LGT_COL_CREES",
-      "type": "Les logements collectifs font partie d’un bâtiment dans lequel sont superposés plus de deux logements distincts dont l'accès nécessite d'emprunter des parties communes",
+      "type": "Les logements collectifs font partie d'un bâtiment dans lequel sont superposés plus de deux logements distincts dont l'accès nécessite d'emprunter des parties communes",
       "description": "",
       "nullable": true
     },
     {
       "name": "NB_LGT_INDIV_PURS",
-      "type": "Un logement individuel pur fait l’objet d’un permis de construire relatif à un seul logement individuel",
+      "type": "Un logement individuel pur fait l'objet d'un permis de construire relatif à un seul logement individuel",
       "description": "Introduit en mai 2022",
       "nullable": true
     },
     {
       "name": "NB_LGT_INDIV_GROUPES",
-      "type": "Les logements individuels groupés font l’objet d’un permis de construire relatif à la construction de plusieurs logements individuels (par exemple en lotissement ou dans une maison individuelle de deux logements), ou d'un logement individuel associés à des logements collectifs ou des locaux non résidentiels",
+      "type": "Les logements individuels groupés font l'objet d'un permis de construire relatif à la construction de plusieurs logements individuels (par exemple en lotissement ou dans une maison individuelle de deux logements), ou d'un logement individuel associés à des logements collectifs ou des locaux non résidentiels",
       "description": "Introduit en mai 2022",
       "nullable": true
     },
     {
       "name": "NB_LGT_RES",
-      "type": "Les logements en résidence sont des logements (individuels ou collectifs) construits en vue d’une occupation par un public ciblé selon la nature de la résidence, avec généralement mise à disposition de services adaptés",
+      "type": "Les logements en résidence sont des logements (individuels ou collectifs) construits en vue d'une occupation par un public ciblé selon la nature de la résidence, avec généralement mise à disposition de services adaptés",
       "description": "Introduit en mai 2022",
       "nullable": true
     },
     {
       "name": "NB_LGT_COL_HORS_RES",
-      "type": "Les logements collectifs font partie d’un bâtiment dans lequel sont superposés plus de deux logements distincts dont l'accès nécessite d'emprunter des parties communes",
+      "type": "Les logements collectifs font partie d'un bâtiment dans lequel sont superposés plus de deux logements distincts dont l'accès nécessite d'emprunter des parties communes",
       "description": "Introduit en mai 2022",
       "nullable": true
     },

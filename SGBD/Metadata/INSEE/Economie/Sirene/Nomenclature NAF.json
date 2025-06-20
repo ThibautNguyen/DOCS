@@ -12,7 +12,7 @@
     {
       "name": "2120875",
       "type": "VARCHAR",
-      "description": "## Tableau SQL : \nnomenclature_naf\n\n\n\n## Chemin sur disque dur :\nC:\\Users\\thiba\\OneDrive\\Documents\\Données\\Économie\\Sirene\\Nomenclature d’activités française (NAF)\n\n\n\n## 4 premières lignes du CSV :\nCode; Intitulés de la  NAF rév. 2, version finale",
+      "description": "## Tableau SQL : \nnomenclature_naf\n\n\n\n## Chemin sur disque dur :\nC:\\Users\\thiba\\OneDrive\\Documents\\Data\\Économie\\Sirene\\Nomenclature d'activités française (NAF)\n\n\n\n## 4 premières lignes du CSV :\nCode; Intitulés de la  NAF rév. 2, version finale",
       "nullable": true
     },
     {

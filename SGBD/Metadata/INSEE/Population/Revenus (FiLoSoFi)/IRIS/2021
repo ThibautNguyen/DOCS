@@ -4,7 +4,7 @@ https://www.insee.fr/fr/statistiques/8229323
 
 
 ##Chemin URL : 
-C:\Users\thiba\OneDrive\Documents\Données\Population\FiLoSoFi\2021\IRIS
+C:\Users\thiba\OneDrive\Documents\Data\Population\FiLoSoFi\2021\IRIS
 
 
 
@@ -25,8 +25,8 @@ IRIS;DISP_TP6021;DISP_INCERT21;DISP_Q121;DISP_MED21;DISP_Q321;DISP_EQ21;DISP_D12
 COD_VAR;LIB_VAR;LIB_VAR_LONG;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
 IRIS;IRIS;Code du département suivi du numéro de commune ou du numéro d'arrondissement municipal suivi du numéro d'IRIS;;;CHAR;9
 DISP_TP6021;Taux de pauvreté au seuil de 60 % (%);Taux de pauvreté au seuil de 60 % du revenu disponible par unité de consommation médian métropolitain (%);;;CHAR;4
-DISP_INCERT21;Incertitude sur les indicateurs DISP_TP6021;Incertitude sur le taux de bas revenus;1;IRIS de 1 000 à moins de 10 000 ménages : à l’unité;CHAR;2
-DISP_INCERT21;Incertitude sur les indicateurs DISP_TP6021;Incertitude sur le taux de bas revenus;2;IRIS de 500 à moins de 1 000 ménages : à l’entier impair le plus proche.;CHAR;2
+DISP_INCERT21;Incertitude sur les indicateurs DISP_TP6021;Incertitude sur le taux de bas revenus;1;IRIS de 1 000 à moins de 10 000 ménages : à l'unité;CHAR;2
+DISP_INCERT21;Incertitude sur les indicateurs DISP_TP6021;Incertitude sur le taux de bas revenus;2;IRIS de 500 à moins de 1 000 ménages : à l'entier impair le plus proche.;CHAR;2
 DISP_Q121;1ᵉʳ quartile (€);1ᵉʳ quartile du revenu disponible par unité de consommation (en euros);;;CHAR;5
 DISP_MED21;Médiane (€);Médiane du revenu disponible par unité de consommation (en euros);;;CHAR;5
 DISP_Q321;3ᵉ quartile (€);3ᵉ quartile du revenu disponible par unité de consommation (en euros);;;CHAR;6
@@ -42,7 +42,7 @@ DISP_D921;9ᵉ décile (€);9ᵉ décile du revenu disponible par unité de con
 DISP_RD21;Rapport interdécile D9/D1;Rapport interdécile D9/D1 du revenu disponible par unité de consommation;;;CHAR;4
 DISP_S80S2021;S80/S20;S80/S20 du revenu disponible par unité de consommation;;;CHAR;4
 DISP_GI21;Indice de Gini;Indice de Gini du revenu disponible par unité de consommation;;;CHAR;5
-DISP_PACT21;Part des revenus d’activité (%);Part des revenus d’activité (%);;;CHAR;5
+DISP_PACT21;Part des revenus d'activité (%);Part des revenus d'activité (%);;;CHAR;5
 DISP_PTSA21;dont part des salaires et traitements (%);dont part des salaires et traitements (%);;;CHAR;5
 DISP_PCHO21;dont part des indemnités de chômage (%);dont part des indemnités chômage (%);;;CHAR;4
 DISP_PBEN21;dont part des revenus des activités non salariées (%);dont part des revenus des activités non salariées (%);;;CHAR;4
@@ -54,5 +54,5 @@ DISP_PPMINI21;dont part des minima sociaux (%);dont part des minima sociaux (%);
 DISP_PPLOGT21;dont part des prestations logement (%);dont part des prestations logement (%);;;CHAR;4
 DISP_PIMPOT21;Part des impôts (%);Part des impôts (%);;;CHAR;5
 DEC_NOTE21;Note de précaution;Note de précaution;0;Aucun problème particulier. Certaines données peuvent être manquantes en raison des seuils de diffusion.;CHAR;2
-DEC_NOTE21;Note de précaution;Note de précaution;1;IRIS pour lesquels l’évolution du nombre de ménages par rapport à l’année précédente est forte (supérieure à ± 10%). Cela peut être lié  à des changements de concepts de la source fiscale ou à des opérations urbaines massives (constructions, démolitions). L’interprétation des évolutions est donc à conduire avec précaution.;CHAR;2
+DEC_NOTE21;Note de précaution;Note de précaution;1;IRIS pour lesquels l'évolution du nombre de ménages par rapport à l'année précédente est forte (supérieure à ± 10%). Cela peut être lié  à des changements de concepts de la source fiscale ou à des opérations urbaines massives (constructions, démolitions). L'interprétation des évolutions est donc à conduire avec précaution.;CHAR;2
 DEC_NOTE21;Note de précaution;Note de précaution;5;Données non diffusées en raison d'anomalies repérées lors de contrôles de cohérence.;CHAR;2

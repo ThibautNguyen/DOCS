@@ -2,7 +2,7 @@
   "table_info": {
     "schema": "insee",
     "name": "POP_LOG_s",
-    "description": "https://www.insee.fr/fr/statistiques/8205247 C:\\Users\\thiba\\OneDrive\\Documents\\Données\\Population\\Séries historiques COM (pop, log, superficie, naissances, décès, etc.)\\2021",
+    "description": "https://www.insee.fr/fr/statistiques/8205247 C:\\Users\\thiba\\OneDrive\\Documents\\Data\\Population\\Séries historiques COM (pop, log, superficie, naissances, décès, etc.)\\2021",
     "date_creation": "",
     "source": "",
     "frequence_maj": "",

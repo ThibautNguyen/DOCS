@@ -2,7 +2,7 @@
   "table_info": {
     "schema": "insee",
     "name": "POP_STRUCT_COM_EVOL_2021",
-    "description": "https://www.insee.fr/fr/statistiques/8201904 POP_STRUCT_COM_EVOL_2021 C:\\Users\\thiba\\OneDrive\\Documents\\Données\\Population\\Evolution et structure de la population COM",
+    "description": "https://www.insee.fr/fr/statistiques/8201904 POP_STRUCT_COM_EVOL_2021 C:\\Users\\thiba\\OneDrive\\Documents\\Data\\Population\\Evolution et structure de la population COM",
     "date_creation": "",
     "source": "",
     "frequence_maj": "",
@@ -18,7 +18,7 @@
     {
       "name": "POP_STRUCT_COM_EVOL_2021",
       "type": "VARCHAR",
-      "description": "## Chemin du tableau : \nC:\\Users\\thiba\\OneDrive\\Documents\\Données\\Population\\Evolution et structure de la population COM\n\n\n\n# 4 premières lignes :",
+      "description": "## Chemin du tableau : \nC:\\Users\\thiba\\OneDrive\\Documents\\Data\\Population\\Evolution et structure de la population COM\n\n\n\n# 4 premières lignes :",
       "nullable": true
     },
     {
